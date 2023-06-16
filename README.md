@@ -1,5 +1,7 @@
-# finalCapstone
+# Final Capstone
 
-## Hello
+## Finance Calculator Capstone Project README
+
+
 
 Hello
