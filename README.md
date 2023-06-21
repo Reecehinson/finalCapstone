@@ -68,11 +68,35 @@ The terminal will then print a message providing the amount of interest gained a
 
 If the option 'bond' is selected the terminal will ask you to enter the value of the house.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://postimg.cc/w3H2CWds][img]https://i.postimg.cc/w3H2CWds/Screenshot-2023-06-21-173136.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://postimg.cc/w3H2CWds][img]https://i.postimg.cc/w3H2CWds/Screenshot-2023-06-21-173136.png">
+  <img alt="Screenshot" src="https://postimg.cc/w3H2CWds][img]https://i.postimg.cc/w3H2CWds/Screenshot-2023-06-21-173136.png">
+</picture>
+
 After that it will ask you for the interest rate on the home loan. 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://postimg.cc/mhwjBQbp][img]https://i.postimg.cc/mhwjBQbp/Screenshot-2023-06-21-173153.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://postimg.cc/mhwjBQbp][img]https://i.postimg.cc/mhwjBQbp/Screenshot-2023-06-21-173153.png">
+  <img alt="Screenshot" src="https://postimg.cc/mhwjBQbp][img]https://i.postimg.cc/mhwjBQbp/Screenshot-2023-06-21-173153.png">
+</picture>
 
 Finally it will ask you to enter the amount of months needed to pay off the loan.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://postimg.cc/4mx5dmyf][img]https://i.postimg.cc/4mx5dmyf/Screenshot-2023-06-21-173235.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://postimg.cc/4mx5dmyf][img]https://i.postimg.cc/4mx5dmyf/Screenshot-2023-06-21-173235.png">
+  <img alt="Screenshot" src="https://postimg.cc/4mx5dmyf][img]https://i.postimg.cc/4mx5dmyf/Screenshot-2023-06-21-173235.png">
+</picture>
+
 The terminal will print a message providing the amount the monthly payments will be with the interest included. 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://postimg.cc/tYvzVpnh][img]https://i.postimg.cc/tYvzVpnh/Screenshot-2023-06-21-173309.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://postimg.cc/tYvzVpnh][img]https://i.postimg.cc/tYvzVpnh/Screenshot-2023-06-21-173309.png">
+  <img alt="Screenshot" src="https://postimg.cc/tYvzVpnh][img]https://i.postimg.cc/tYvzVpnh/Screenshot-2023-06-21-173309.png">
+</picture>
 
 ## 2. Installation
 
